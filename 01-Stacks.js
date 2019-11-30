@@ -1,4 +1,5 @@
 /* Stacks! */
+// first one, last out.
 
 // functions: push, pop, peek, length
 
